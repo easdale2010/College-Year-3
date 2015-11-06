@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>NoName_6-0</Name>
+    <Identity>
+      <SourceFilename>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgameContent\doorA.x</SourceFilename>
+      <SourceTool>XImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 1.300001 0 1</Transform>
+    <Children>
+      <Child Type="Graphics:MeshContent">
+        <Name>NoName_6Mesh</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Positions>0.438399 -0.925511 2.401289 0.438399 0.925511 2.401289 0.438399 -0.92551 2.498712 0.438399 0.925511 2.498711 -0.438399 -0.925511 2.401289 -0.438399 -0.92551 2.498712 -0.4384 0.925511 2.498711 -0.438399 0.925511 2.401289</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>0 1 2 0 2 3 4 5 6 4 6 7 8 9 10 8 10 11 12 13 14 12 14 15 16 17 18 16 18 19 20 21 22 20 22 23</Indices>
+            <Vertices>
+              <PositionIndices>0 2 3 1 2 0 4 5 6 3 2 5 3 6 7 1 4 7 6 5 7 4 0 1</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">1 0 1E-06 1 0 2E-06 1 0 1E-06 1 0 0 0 -1 1E-06 0 -1 1E-06 0 -1 1E-06 0 -1 1E-06 0 0 1 0 0 1 0 0 1 0 0 1 0 1 -1E-06 0 1 -1E-06 0 1 -1E-06 0 1 -1E-06 -1 0 -1E-06 -1 0 -2E-06 -1 0 -1E-06 -1 -0 0 -0 0 -1 -0 0 -1 -0 0 -1 0 0 -1</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.942946 -0.047148 0.895799 -0.047148 0.895798 -0.942947 0.942946 -0.942947 0 0 0 -0.047148 0.424326 -0.047148 0.424326 -1E-06 0.471473 -0.942947 0.895798 -0.942947 0.895799 -0.047148 0.471473 -0.047148 0 -0.990094 0.424326 -0.990094 0.424326 -0.942947 0 -0.942946 0.424326 -0.047148 0.424326 -0.942947 0.471473 -0.942947 0.471473 -0.047148 0.424326 -0.942947 0.424326 -0.047148 0 -0.047148 0 -0.942946</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Identity>
+        <SourceFilename>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgameContent\doorA.x</SourceFilename>
+        <SourceTool>XImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.415686 0.294118 0.219608</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0.1 0.1 0.1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0.170431 0.120588 0.090039</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\doorA_texture.bmp</ExternalReference>
+  </ExternalReferences>
+</XnaContent>

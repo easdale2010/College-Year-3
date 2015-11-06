@@ -1,0 +1,8 @@
+S:\oopa\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\college\year3\oopa\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\Assment\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\college\year3\oopa\Assment\gamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\college\year3\oopa\Assment\marioclonewithgamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\college\year3\oopa\Assment\marioclonewithgamemenu\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\college\year3\oopa\Assment\timer\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\college\year3\oopa\Assment\Assment\timer\gamemenu\gamemenuContent\obj\x86\Debug\ResolveAssemblyReference.cache

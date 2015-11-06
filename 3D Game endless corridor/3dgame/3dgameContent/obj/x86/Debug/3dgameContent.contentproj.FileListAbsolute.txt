@@ -1,0 +1,11 @@
+J:\XNA\XNA4 Projects\3dgame\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\3dgame\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\XNA4 Projects\3dgame\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\3dgame\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\Media\Code\3dgame\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\XNA4 Projects\Media\Code\3D Game endless corridor\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\XNA\XNA4 Projects\Media\Code\3D Game endless corridor\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\XNA\Media Files\XNA4 Code Samples\Windows 7 Examples\3D Game endless corridor\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\Media Files\XNA4 Code Samples\Windows 7 Examples\3D Game endless corridor\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\college\year3\Gradedunit\Part 2\3D Game endless corridor\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game endless corridor\3dgame\3dgameContent\obj\x86\Debug\ResolveAssemblyReference.cache

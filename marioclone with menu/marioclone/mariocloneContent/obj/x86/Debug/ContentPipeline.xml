@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cuteman.png</Source>
+      <Name>cuteman</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\cuteman.xnb</Output>
+      <Time>2012-02-09T01:49:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>forest.png</Source>
+      <Name>forest</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\forest.xnb</Output>
+      <Time>2011-09-30T00:30:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sky.jpg</Source>
+      <Name>sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\sky.xnb</Output>
+      <Time>2011-09-30T00:46:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>skypan.jpg</Source>
+      <Name>skypan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\skypan.xnb</Output>
+      <Time>2011-09-30T00:47:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\quartz4.xnb</Output>
+      <Time>2011-09-30T01:02:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bigfoot.png</Source>
+      <Name>bigfoot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\bigfoot.xnb</Output>
+      <Time>2011-10-02T00:43:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>dragon.png</Source>
+      <Name>dragon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\dragon.xnb</Output>
+      <Time>2011-10-02T00:43:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>horsecowboy.png</Source>
+      <Name>horsecowboy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\horsecowboy.xnb</Output>
+      <Time>2011-10-02T00:43:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>luigi.png</Source>
+      <Name>luigi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\luigi.xnb</Output>
+      <Time>2011-10-02T00:43:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>mario.png</Source>
+      <Name>mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\mario.xnb</Output>
+      <Time>2011-10-02T00:43:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sonic.png</Source>
+      <Name>sonic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\sonic.xnb</Output>
+      <Time>2011-10-02T00:43:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>space.jpg</Source>
+      <Name>space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\space.xnb</Output>
+      <Time>2011-10-06T10:17:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>skypan2.jpg</Source>
+      <Name>skypan2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\skypan2.xnb</Output>
+      <Time>2011-11-15T16:12:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>superguy1.png</Source>
+      <Name>superguy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\superguy1.xnb</Output>
+      <Time>2011-11-16T16:15:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BRICK_blue.png</Source>
+      <Name>BRICK_blue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\BRICK_blue.xnb</Output>
+      <Time>2011-12-05T01:33:54+00:00</Time>
+    </Item>
+    <Item>
+      <Source>BRICK_green.png</Source>
+      <Name>BRICK_green</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\BRICK_green.xnb</Output>
+      <Time>2011-12-05T01:34:30+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cutejump.png</Source>
+      <Name>cutejump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\cutejump.xnb</Output>
+      <Time>2012-02-09T01:49:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cutejump2.png</Source>
+      <Name>cutejump2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\cutejump2.xnb</Output>
+      <Time>2012-02-09T01:49:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cuteman2.png</Source>
+      <Name>cuteman2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\cuteman2.xnb</Output>
+      <Time>2012-02-09T01:49:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Background for Menus.jpg</Source>
+      <Name>Background for Menus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\Background for Menus.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Normal.png</Source>
+      <Name>Exit-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\Exit-Normal.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Selected.png</Source>
+      <Name>Exit-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\Exit-Selected.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Normal.png</Source>
+      <Name>High-Score-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\High-Score-Normal.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Selected.png</Source>
+      <Name>High-Score-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\High-Score-Selected.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Normal.png</Source>
+      <Name>Options-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\Options-Normal.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Selected.png</Source>
+      <Name>Options-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\Options-Selected.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Normal.png</Source>
+      <Name>Start-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\Start-Normal.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Selected.png</Source>
+      <Name>Start-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\Start-Selected.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor-Highlight.png</Source>
+      <Name>X-Games-Cursor-Highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor.png</Source>
+      <Name>X-Games-Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\X-Games-Cursor.xnb</Output>
+      <Time>2012-02-16T22:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ballhit.wav</Source>
+      <Name>ballhit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\ballhit.xnb</Output>
+      <Time>2011-12-07T09:52:52+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\mariocloneContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\mariocloneContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\college\year3\oopa\marioclone with menu\marioclone\marioclone\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-26T23:16:30.1451936+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

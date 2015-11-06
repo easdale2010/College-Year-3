@@ -1,0 +1,4 @@
+S:\oopa\MarioClone\MarioClone\MarioCloneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\college\year3\oopa\Assment\MarioClone\MarioClone\MarioCloneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\Assment\MarioClone\MarioClone\MarioCloneContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\college\year3\oopa\Assment\MarioClone\MarioClone\MarioCloneContent\obj\x86\Debug\ResolveAssemblyReference.cache

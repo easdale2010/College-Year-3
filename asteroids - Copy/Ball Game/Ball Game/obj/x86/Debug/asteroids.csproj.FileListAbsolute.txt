@@ -1,0 +1,37 @@
+S:\oopa\asteroids\Ball Game\Ball Game\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\asteroids\Ball Game\Ball Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\football.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\football2.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\fullmoon.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\gameover.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\quartz4.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\asteroids.exe
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\asteroids.pdb
+S:\oopa\asteroids\Ball Game\Ball Game\obj\x86\Debug\asteroids.exe
+S:\oopa\asteroids\Ball Game\Ball Game\obj\x86\Debug\asteroids.pdb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\ast1.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\explosive_attack.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\iron-man.xnb
+S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\rocks.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\football.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\football2.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\fullmoon.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\gameover.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\quartz4.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\ast1.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\effect_005.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\rocks.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\explosive_attack.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\iron-man.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\asteroids.exe
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\asteroids.pdb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\obj\x86\Debug\asteroids.exe
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\obj\x86\Debug\asteroids.pdb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\defiant.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\raptor.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\effect_002.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\effect_003.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\bullet1.xnb
+S:\oopa\asteroids - Copy\Ball Game\Ball Game\bin\x86\Debug\Content\bullet2.xnb

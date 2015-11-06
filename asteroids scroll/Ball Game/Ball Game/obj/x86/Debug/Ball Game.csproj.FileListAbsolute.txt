@@ -1,0 +1,33 @@
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\football.xnb
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\football2.xnb
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\fullmoon.xnb
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\gameover.xnb
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\quartz4.xnb
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Ball Game.exe
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Ball Game.pdb
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\obj\x86\Debug\Ball Game.exe
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball Game\obj\x86\Debug\Ball Game.pdb
+S:\oopa\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\football.xnb
+S:\oopa\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\football2.xnb
+S:\oopa\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\fullmoon.xnb
+S:\oopa\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\gameover.xnb
+S:\oopa\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Content\quartz4.xnb
+S:\oopa\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Ball Game.exe
+S:\oopa\Ball Game\Ball Game\Ball Game\bin\x86\Debug\Ball Game.pdb
+S:\oopa\Ball Game\Ball Game\Ball Game\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\Ball Game\Ball Game\Ball Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\oopa\Ball Game\Ball Game\Ball Game\obj\x86\Debug\Ball Game.exe
+S:\oopa\Ball Game\Ball Game\Ball Game\obj\x86\Debug\Ball Game.pdb
+S:\oopa\Ball Game c2\Ball Game\Ball Game\bin\x86\Debug\Content\football.xnb
+S:\oopa\Ball Game c2\Ball Game\Ball Game\bin\x86\Debug\Content\football2.xnb
+S:\oopa\Ball Game c2\Ball Game\Ball Game\bin\x86\Debug\Content\fullmoon.xnb
+S:\oopa\Ball Game c2\Ball Game\Ball Game\bin\x86\Debug\Content\gameover.xnb
+S:\oopa\Ball Game c2\Ball Game\Ball Game\bin\x86\Debug\Content\quartz4.xnb
+S:\oopa\Ball Game c2\Ball Game\Ball Game\bin\x86\Debug\Ball Game.exe
+S:\oopa\Ball Game c2\Ball Game\Ball Game\bin\x86\Debug\Ball Game.pdb
+S:\oopa\Ball Game c2\Ball Game\Ball Game\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\Ball Game c2\Ball Game\Ball Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+S:\oopa\Ball Game c2\Ball Game\Ball Game\obj\x86\Debug\Ball Game.exe
+S:\oopa\Ball Game c2\Ball Game\Ball Game\obj\x86\Debug\Ball Game.pdb

@@ -1,0 +1,7 @@
+C:\Users\410023003\Documents\Visual Studio 2010\Projects\Ball Game\Ball Game\Ball GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\Ball Game\Ball Game\Ball GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\Ball Game c2\Ball Game\Ball GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\asteroids\Ball Game\Ball GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\asteroids - Copy\Ball Game\Ball GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\oopa\asteroids scroll\Ball Game\Ball GameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\college\year3\oopa\asteroids scroll - view\Ball Game\Ball GameContent\obj\x86\Debug\Ball GameContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,1654 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background for Menus.jpg</Source>
+      <Name>Background for Menus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Background for Menus.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Normal.png</Source>
+      <Name>Exit-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Exit-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Selected.png</Source>
+      <Name>Exit-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Exit-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Normal.png</Source>
+      <Name>High-Score-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\High-Score-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Selected.png</Source>
+      <Name>High-Score-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\High-Score-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Normal.png</Source>
+      <Name>Options-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Options-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Selected.png</Source>
+      <Name>Options-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Options-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Normal.png</Source>
+      <Name>Start-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Start-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Selected.png</Source>
+      <Name>Start-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Start-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor-Highlight.png</Source>
+      <Name>X-Games-Cursor-Highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor.png</Source>
+      <Name>X-Games-Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\X-Games-Cursor.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rockie.jpg</Source>
+      <Name>rockie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\rockie.xnb</Output>
+      <Time>2011-10-23T18:54:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bark2.jpg</Source>
+      <Name>bark2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\bark2.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\quartz4.xnb</Output>
+      <Time>2012-02-19T00:01:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>masonry-wall-texture.jpg</Source>
+      <Name>masonry-wall-texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\masonry-wall-texture.xnb</Output>
+      <Time>2013-11-13T14:31:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>doorA_texture.bmp</Source>
+      <Name>doorA_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\doorA_texture.xnb</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseAtexture.tga</Source>
+      <Name>houseAtexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseAtexture.xnb</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseB_tex.bmp</Source>
+      <Name>houseB_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseB_tex.xnb</Output>
+      <Time>2013-11-21T09:58:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseC_texture.bmp</Source>
+      <Name>houseC_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseC_texture.xnb</Output>
+      <Time>2013-11-21T13:20:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cornershop_texture.bmp</Source>
+      <Name>cornershop_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\cornershop_texture.xnb</Output>
+      <Time>2013-11-24T10:44:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>shop_texture.bmp</Source>
+      <Name>shop_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\shop_texture.xnb</Output>
+      <Time>2013-11-24T16:39:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lanternblue_tex.bmp</Source>
+      <Name>lanternblue_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternblue_tex.xnb</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lanternred_tex.bmp</Source>
+      <Name>lanternred_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternred_tex.xnb</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseD_texture.bmp</Source>
+      <Name>houseD_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseD_texture.xnb</Output>
+      <Time>2013-11-28T12:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>church_tex.bmp</Source>
+      <Name>church_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\church_tex.xnb</Output>
+      <Time>2013-11-28T12:53:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseE_tex.png</Source>
+      <Name>houseE_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseE_tex.xnb</Output>
+      <Time>2013-12-04T09:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseF_tex.BMP</Source>
+      <Name>houseF_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseF_tex.xnb</Output>
+      <Time>2013-12-04T09:28:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>512x512_seamless_texture_03.jpg</Source>
+      <Name>512x512_seamless_texture_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\512x512_seamless_texture_03.xnb</Output>
+      <Time>2013-12-10T09:36:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ferrari.tga</Source>
+      <Name>Ferrari</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Ferrari.xnb</Output>
+      <Time>2013-12-11T10:19:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>FerrariTires.tga</Source>
+      <Name>FerrariTires</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\FerrariTires.xnb</Output>
+      <Time>2013-12-11T10:19:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Lamburghini.tga</Source>
+      <Name>Lamburghini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Lamburghini.xnb</Output>
+      <Time>2013-12-11T12:16:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Chrome_2.jpg</Source>
+      <Name>Chrome_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Chrome_2.xnb</Output>
+      <Time>2013-12-11T12:40:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>barrel_tex.bmp</Source>
+      <Name>barrel_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\barrel_tex.xnb</Output>
+      <Time>2013-12-16T12:42:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bark_texture_dark.bmp</Source>
+      <Name>bark_texture_dark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\bark_texture_dark.xnb</Output>
+      <Time>2013-12-16T14:44:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>branchB_texture.tga</Source>
+      <Name>branchB_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\branchB_texture.xnb</Output>
+      <Time>2013-12-16T14:44:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>firneedle_texture.tga</Source>
+      <Name>firneedle_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\firneedle_texture.xnb</Output>
+      <Time>2013-12-16T16:52:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>firtrunk_texture.bmp</Source>
+      <Name>firtrunk_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\firtrunk_texture.xnb</Output>
+      <Time>2013-12-16T16:52:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>horsebrownhair_texture.BMP</Source>
+      <Name>horsebrownhair_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsebrownhair_texture.xnb</Output>
+      <Time>2013-12-16T17:17:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>horsegreyhair_texture.bmp</Source>
+      <Name>horsegreyhair_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsegreyhair_texture.xnb</Output>
+      <Time>2013-12-21T13:59:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ship1UV.bmp</Source>
+      <Name>ship1UV</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\ship1UV.xnb</Output>
+      <Time>2013-12-21T14:16:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>boxtex.png</Source>
+      <Name>boxtex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\boxtex.xnb</Output>
+      <Time>2013-12-21T14:18:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>box_tex.bmp</Source>
+      <Name>box_tex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\box_tex.xnb</Output>
+      <Time>2013-12-21T14:18:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>skin..jpg</Source>
+      <Name>skin.</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\skin..xnb</Output>
+      <Time>2014-01-12T20:42:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>512x512_seamless_texture_05.jpg</Source>
+      <Name>512x512_seamless_texture_05</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\512x512_seamless_texture_05.xnb</Output>
+      <Time>2014-01-08T12:11:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>r2d2v2.x</Source>
+      <Name>r2d2v2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\r2d2v2.xnb</Output>
+      <Time>2011-10-23T18:51:54+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\r2d2v2_0.xml</Key>
+        <Value>2014-02-04T14:15:58.5535706+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>lamppost.x</Source>
+      <Name>lamppost</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lamppost.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\lamppost_0.xml</Key>
+        <Value>2014-02-04T14:15:59.2835728+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>tree.x</Source>
+      <Name>tree</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\tree.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\tree_0.xml</Key>
+        <Value>2014-02-04T14:15:59.3935729+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\bark2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>wall.x</Source>
+      <Name>wall</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2013-11-13T14:32:00+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\wall_0.xml</Key>
+        <Value>2014-02-04T14:15:59.6435733+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\masonry-wall-texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>doorA.x</Source>
+      <Name>doorA</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\doorA.xnb</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\doorA_0.xml</Key>
+        <Value>2014-02-04T14:16:00.5635745+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\doorA_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>houseA.x</Source>
+      <Name>houseA</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseA.xnb</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\houseA_0.xml</Key>
+        <Value>2014-02-04T14:16:00.7635748+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseAtexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>houseB_mesh.x</Source>
+      <Name>houseB_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseB_mesh.xnb</Output>
+      <Time>2013-11-21T09:58:16+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\houseB_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:01.5435759+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseB_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>houseC_mesh.x</Source>
+      <Name>houseC_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseC_mesh.xnb</Output>
+      <Time>2013-11-21T13:20:06+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\houseC_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:02.0535766+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseC_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>cornershop_mesh.x</Source>
+      <Name>cornershop_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\cornershop_mesh.xnb</Output>
+      <Time>2013-11-24T10:44:20+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\cornershop_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:02.8335777+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\cornershop_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>shop_mesh.x</Source>
+      <Name>shop_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\shop_mesh.xnb</Output>
+      <Time>2013-11-24T16:39:42+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\shop_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:03.5935787+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\shop_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>lanternblue_mesh.x</Source>
+      <Name>lanternblue_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternblue_mesh.xnb</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\lanternblue_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:04.2835797+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternblue_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>lanternred_mesh.x</Source>
+      <Name>lanternred_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternred_mesh.xnb</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\lanternred_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:04.4235799+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternred_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>houseD_mesh.x</Source>
+      <Name>houseD_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseD_mesh.xnb</Output>
+      <Time>2013-11-28T12:28:16+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\houseD_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:04.5835801+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseD_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>church_mesh.x</Source>
+      <Name>church_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\church_mesh.xnb</Output>
+      <Time>2013-11-28T12:53:38+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\church_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:05.3635812+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\church_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>houseE_mesh.x</Source>
+      <Name>houseE_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseE_mesh.xnb</Output>
+      <Time>2013-12-04T09:28:16+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\houseE_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:06.1255834+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseE_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>houseF_mesh.x</Source>
+      <Name>houseF_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseF_mesh.xnb</Output>
+      <Time>2013-12-04T09:28:46+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\houseF_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:06.899587+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseF_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ground.x</Source>
+      <Name>ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\ground.xnb</Output>
+      <Time>2013-12-10T09:36:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ground_0.xml</Key>
+        <Value>2014-02-04T14:16:08.4195891+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\512x512_seamless_texture_03_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Ferrari2.x</Source>
+      <Name>Ferrari2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Ferrari2.xnb</Output>
+      <Time>2013-12-11T11:42:16+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Ferrari2_0.xml</Key>
+        <Value>2014-02-04T14:16:08.8995897+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\FerrariTires_0.xnb</Request>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Ferrari_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Lamborghini2.x</Source>
+      <Name>Lamborghini2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Lamborghini2.xnb</Output>
+      <Time>2013-12-11T12:16:18+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Lamborghini2_0.xml</Key>
+        <Value>2014-02-04T14:16:09.4795905+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Lamburghini_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>barrel.x</Source>
+      <Name>barrel</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\barrel.xnb</Output>
+      <Time>2013-12-16T12:42:18+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\barrel_0.xml</Key>
+        <Value>2014-02-04T14:16:11.0595927+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\barrel_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>broadleavedtreeB_mesh.x</Source>
+      <Name>broadleavedtreeB_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\broadleavedtreeB_mesh.xnb</Output>
+      <Time>2013-12-16T14:44:46+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\broadleavedtreeB_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:11.249593+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\branchB_texture_0.xnb</Request>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\bark_texture_dark_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>fir_mesh.x</Source>
+      <Name>fir_mesh</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\fir_mesh.xnb</Output>
+      <Time>2013-12-16T16:52:56+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\fir_mesh_0.xml</Key>
+        <Value>2014-02-04T14:16:11.5415946+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\firtrunk_texture_0.xnb</Request>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\firneedle_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>horsebrownhair.x</Source>
+      <Name>horsebrownhair</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsebrownhair.xnb</Output>
+      <Time>2013-12-16T17:17:20+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\horsebrownhair_0.xml</Key>
+        <Value>2014-02-04T14:16:11.8915951+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsebrownhair_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>tgrounds.x</Source>
+      <Name>tgrounds</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\tgrounds.xnb</Output>
+      <Time>2013-12-17T12:15:08+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\tgrounds_0.xml</Key>
+        <Value>2014-02-04T14:16:13.4335984+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\512x512_seamless_texture_03_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>horsegreyhair.x</Source>
+      <Name>horsegreyhair</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsegreyhair.xnb</Output>
+      <Time>2013-12-21T13:59:28+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\horsegreyhair_0.xml</Key>
+        <Value>2014-02-04T14:16:13.6835988+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsegreyhair_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ship1.x</Source>
+      <Name>ship1</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\ship1.xnb</Output>
+      <Time>2013-12-21T14:16:26+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ship1_0.xml</Key>
+        <Value>2014-02-04T14:16:14.5235999+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\ship1UV_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>simplebox.x</Source>
+      <Name>simplebox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\simplebox.xnb</Output>
+      <Time>2013-12-21T14:18:02+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\simplebox_0.xml</Key>
+        <Value>2014-02-04T14:16:14.8036003+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\box_tex_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ballbullet.x</Source>
+      <Name>ballbullet</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\ballbullet.xnb</Output>
+      <Time>2014-01-08T12:23:04+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ballbullet_0.xml</Key>
+        <Value>2014-02-04T14:16:14.9536005+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\512x512_seamless_texture_05_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>limb.x</Source>
+      <Name>limb</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\limb.xnb</Output>
+      <Time>2014-01-12T20:37:34+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\limb_0.xml</Key>
+        <Value>2014-02-04T14:16:15.2436009+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\skin._0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>head.x</Source>
+      <Name>head</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\head.xnb</Output>
+      <Time>2014-01-12T21:27:14+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\head_0.xml</Key>
+        <Value>2014-02-04T14:16:15.3956024+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\skin._0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>thurso.x</Source>
+      <Name>thurso</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\thurso.xnb</Output>
+      <Time>2014-01-12T21:27:14+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\thurso_0.xml</Key>
+        <Value>2014-02-04T14:16:15.4656025+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\skin._0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ship.fbx</Source>
+      <Name>ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ship_0.xml</Key>
+        <Value>2014-02-04T14:16:15.6356027+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Name>tank</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\tank.xnb</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\tank_0.xml</Key>
+        <Value>2014-02-04T14:16:15.7956029+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>explosion.wav</Source>
+      <Name>explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-12-23T22:13:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>TALK.WAV</Source>
+      <Name>TALK</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\TALK.xnb</Output>
+      <Time>2013-12-24T20:12:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>LASER19.WAV</Source>
+      <Name>LASER19</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\LASER19.xnb</Output>
+      <Time>2013-12-27T00:34:48+00:00</Time>
+    </Item>
+    <Item>
+      <Source>zombiemaon.wav</Source>
+      <Name>zombiemaon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\zombiemaon.xnb</Output>
+      <Time>2014-01-13T22:07:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>r2d2v2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\r2d2v2_0.xml</Output>
+      <Time>2011-10-23T18:51:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lamppost.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\lamppost_0.xml</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tree.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\tree_0.xml</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bark2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\bark2_0.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\wall_0.xml</Output>
+      <Time>2013-11-13T14:32:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>masonry-wall-texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\masonry-wall-texture_0.xnb</Output>
+      <Time>2013-11-13T14:31:58+00:00</Time>
+    </Item>
+    <Item>
+      <Source>doorA.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\doorA_0.xml</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>doorA_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\doorA_texture_0.xnb</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseA.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\houseA_0.xml</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseAtexture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseAtexture_0.xnb</Output>
+      <Time>2013-11-20T20:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseB_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\houseB_mesh_0.xml</Output>
+      <Time>2013-11-21T09:58:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseB_tex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseB_tex_0.xnb</Output>
+      <Time>2013-11-21T09:58:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseC_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\houseC_mesh_0.xml</Output>
+      <Time>2013-11-21T13:20:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseC_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseC_texture_0.xnb</Output>
+      <Time>2013-11-21T13:20:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cornershop_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\cornershop_mesh_0.xml</Output>
+      <Time>2013-11-24T10:44:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cornershop_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\cornershop_texture_0.xnb</Output>
+      <Time>2013-11-24T10:44:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>shop_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\shop_mesh_0.xml</Output>
+      <Time>2013-11-24T16:39:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>shop_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\shop_texture_0.xnb</Output>
+      <Time>2013-11-24T16:39:42+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lanternblue_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\lanternblue_mesh_0.xml</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lanternblue_tex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternblue_tex_0.xnb</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lanternred_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\lanternred_mesh_0.xml</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>lanternred_tex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\lanternred_tex_0.xnb</Output>
+      <Time>2013-11-24T17:22:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseD_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\houseD_mesh_0.xml</Output>
+      <Time>2013-11-28T12:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseD_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseD_texture_0.xnb</Output>
+      <Time>2013-11-28T12:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>church_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\church_mesh_0.xml</Output>
+      <Time>2013-11-28T12:53:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>church_tex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\church_tex_0.xnb</Output>
+      <Time>2013-11-28T12:53:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseE_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\houseE_mesh_0.xml</Output>
+      <Time>2013-12-04T09:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseE_tex.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseE_tex_0.xnb</Output>
+      <Time>2013-12-04T09:28:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseF_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\houseF_mesh_0.xml</Output>
+      <Time>2013-12-04T09:28:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>houseF_tex.BMP</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\houseF_tex_0.xnb</Output>
+      <Time>2013-12-04T09:28:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ground_0.xml</Output>
+      <Time>2013-12-10T09:36:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>512x512_seamless_texture_03.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\512x512_seamless_texture_03_0.xnb</Output>
+      <Time>2013-12-10T09:36:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ferrari2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Ferrari2_0.xml</Output>
+      <Time>2013-12-11T11:42:16+00:00</Time>
+    </Item>
+    <Item>
+      <Source>FerrariTires.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\FerrariTires_0.xnb</Output>
+      <Time>2013-12-11T10:19:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Ferrari.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Ferrari_0.xnb</Output>
+      <Time>2013-12-11T10:19:06+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Lamborghini2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Lamborghini2_0.xml</Output>
+      <Time>2013-12-11T12:16:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Lamburghini.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\Lamburghini_0.xnb</Output>
+      <Time>2013-12-11T12:16:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>barrel.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\barrel_0.xml</Output>
+      <Time>2013-12-16T12:42:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>barrel_tex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\barrel_tex_0.xnb</Output>
+      <Time>2013-12-16T12:42:18+00:00</Time>
+    </Item>
+    <Item>
+      <Source>broadleavedtreeB_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\broadleavedtreeB_mesh_0.xml</Output>
+      <Time>2013-12-16T14:44:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>branchB_texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\branchB_texture_0.xnb</Output>
+      <Time>2013-12-16T14:44:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bark_texture_dark.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\bark_texture_dark_0.xnb</Output>
+      <Time>2013-12-16T14:44:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>fir_mesh.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\fir_mesh_0.xml</Output>
+      <Time>2013-12-16T16:52:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>firtrunk_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\firtrunk_texture_0.xnb</Output>
+      <Time>2013-12-16T16:52:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>firneedle_texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\firneedle_texture_0.xnb</Output>
+      <Time>2013-12-16T16:52:56+00:00</Time>
+    </Item>
+    <Item>
+      <Source>horsebrownhair.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\horsebrownhair_0.xml</Output>
+      <Time>2013-12-16T17:17:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>horsebrownhair_texture.BMP</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsebrownhair_texture_0.xnb</Output>
+      <Time>2013-12-16T17:17:20+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tgrounds.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\tgrounds_0.xml</Output>
+      <Time>2013-12-17T12:15:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>horsegreyhair.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\horsegreyhair_0.xml</Output>
+      <Time>2013-12-21T13:59:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>horsegreyhair_texture.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\horsegreyhair_texture_0.xnb</Output>
+      <Time>2013-12-21T13:59:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ship1.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ship1_0.xml</Output>
+      <Time>2013-12-21T14:16:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ship1UV.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\ship1UV_0.xnb</Output>
+      <Time>2013-12-21T14:16:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>simplebox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\simplebox_0.xml</Output>
+      <Time>2013-12-21T14:18:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>box_tex.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\box_tex_0.xnb</Output>
+      <Time>2013-12-21T14:18:02+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ballbullet.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ballbullet_0.xml</Output>
+      <Time>2014-01-08T12:23:04+00:00</Time>
+    </Item>
+    <Item>
+      <Source>512x512_seamless_texture_05.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\512x512_seamless_texture_05_0.xnb</Output>
+      <Time>2014-01-08T12:11:00+00:00</Time>
+    </Item>
+    <Item>
+      <Source>limb.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\limb_0.xml</Output>
+      <Time>2014-01-12T20:37:34+00:00</Time>
+    </Item>
+    <Item>
+      <Source>skin..jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\skin._0.xnb</Output>
+      <Time>2014-01-12T20:42:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>head.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\head_0.xml</Output>
+      <Time>2014-01-12T21:27:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>thurso.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\thurso_0.xml</Output>
+      <Time>2014-01-12T21:27:14+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ship_0.xml</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\tank_0.xml</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>spray.x</Source>
+      <Name>spray</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\spray.xnb</Output>
+      <Time>2014-02-06T19:17:53.7694723+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\spray_0.xml</Key>
+        <Value>2014-02-06T19:23:23.9759834+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>spray.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\spray_0.xml</Output>
+      <Time>2014-02-06T19:17:53.7694723+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\finishedgame\3dgame\3dgame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-26T23:16:30.1451936+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

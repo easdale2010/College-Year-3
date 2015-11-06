@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background for Menus.jpg</Source>
+      <Name>Background for Menus</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\Background for Menus.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Normal.png</Source>
+      <Name>Exit-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\Exit-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Exit-Selected.png</Source>
+      <Name>Exit-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\Exit-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Normal.png</Source>
+      <Name>High-Score-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\High-Score-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>High-Score-Selected.png</Source>
+      <Name>High-Score-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\High-Score-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Normal.png</Source>
+      <Name>Options-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\Options-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Options-Selected.png</Source>
+      <Name>Options-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\Options-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Normal.png</Source>
+      <Name>Start-Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\Start-Normal.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Start-Selected.png</Source>
+      <Name>Start-Selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\Start-Selected.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor-Highlight.png</Source>
+      <Name>X-Games-Cursor-Highlight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\X-Games-Cursor-Highlight.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>X-Games-Cursor.png</Source>
+      <Name>X-Games-Cursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\X-Games-Cursor.xnb</Output>
+      <Time>2011-10-23T18:02:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rockie.jpg</Source>
+      <Name>rockie</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\rockie.xnb</Output>
+      <Time>2011-10-23T18:54:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>bark2.jpg</Source>
+      <Name>bark2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\bark2.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\quartz4.xnb</Output>
+      <Time>2012-02-19T00:01:26+00:00</Time>
+    </Item>
+    <Item>
+      <Source>r2d2v2.x</Source>
+      <Name>r2d2v2</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\r2d2v2.xnb</Output>
+      <Time>2011-10-23T18:51:54+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\r2d2v2_0.xml</Key>
+        <Value>2013-11-21T11:59:37.7520276+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sground.x</Source>
+      <Name>sground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\sground.xnb</Output>
+      <Time>2011-10-23T18:54:18+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\sground_0.xml</Key>
+        <Value>2013-11-21T11:59:38.4490675+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\rockie_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>lamppost.x</Source>
+      <Name>lamppost</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\lamppost.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\lamppost_0.xml</Key>
+        <Value>2013-11-21T11:59:38.7630855+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>tree.x</Source>
+      <Name>tree</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\tree.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\tree_0.xml</Key>
+        <Value>2013-11-21T11:59:38.9080938+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\bark2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ship.fbx</Source>
+      <Name>ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\ship.xnb</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\ship_0.xml</Key>
+        <Value>2013-11-21T11:59:39.209111+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Name>tank</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\tank.xnb</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\tank_0.xml</Key>
+        <Value>2013-11-21T11:59:39.3601196+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>r2d2v2.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\r2d2v2_0.xml</Output>
+      <Time>2011-10-23T18:51:54+01:00</Time>
+    </Item>
+    <Item>
+      <Source>sground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\sground_0.xml</Output>
+      <Time>2011-10-23T18:54:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rockie.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\rockie_0.xnb</Output>
+      <Time>2011-10-23T18:54:44+01:00</Time>
+    </Item>
+    <Item>
+      <Source>lamppost.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\lamppost_0.xml</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tree.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\tree_0.xml</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bark2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\bark2_0.xnb</Output>
+      <Time>2011-11-02T12:02:38+00:00</Time>
+    </Item>
+    <Item>
+      <Source>ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\ship_0.xml</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+    </Item>
+    <Item>
+      <Source>tank.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\tank_0.xml</Output>
+      <Time>2011-12-07T15:01:50+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\User\Documents\college\year3\Gradedunit\part2\3D Game free roam\3dgame\3dgame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-26T23:16:30.1451936+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

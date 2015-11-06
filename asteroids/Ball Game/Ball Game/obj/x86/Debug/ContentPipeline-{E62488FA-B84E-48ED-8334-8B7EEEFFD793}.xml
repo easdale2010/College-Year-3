@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>football.png</Source>
+      <Name>football</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\football.xnb</Output>
+      <Time>2013-08-27T11:39:38.6403698+01:00</Time>
+    </Item>
+    <Item>
+      <Source>football2.png</Source>
+      <Name>football2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\football2.xnb</Output>
+      <Time>2013-08-27T11:39:38.7027682+01:00</Time>
+    </Item>
+    <Item>
+      <Source>fullmoon.jpg</Source>
+      <Name>fullmoon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\fullmoon.xnb</Output>
+      <Time>2013-08-27T11:39:38.7651666+01:00</Time>
+    </Item>
+    <Item>
+      <Source>gameover.jpg</Source>
+      <Name>gameover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\gameover.xnb</Output>
+      <Time>2013-08-27T11:39:38.7963658+01:00</Time>
+    </Item>
+    <Item>
+      <Source>quartz4.png</Source>
+      <Name>quartz4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\quartz4.xnb</Output>
+      <Time>2013-08-27T11:39:38.827565+01:00</Time>
+    </Item>
+    <Item>
+      <Source>ast1.png</Source>
+      <Name>ast1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\ast1.xnb</Output>
+      <Time>2013-09-03T11:36:10.3629675+01:00</Time>
+    </Item>
+    <Item>
+      <Source>rocks.wav</Source>
+      <Name>rocks</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\rocks.xnb</Output>
+      <Time>2013-09-03T11:45:56.225465+01:00</Time>
+    </Item>
+    <Item>
+      <Source>explosive_attack.wav</Source>
+      <Name>explosive_attack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\explosive_attack.xnb</Output>
+      <Time>2013-09-03T12:08:23.5832067+01:00</Time>
+    </Item>
+    <Item>
+      <Source>iron-man.wav</Source>
+      <Name>iron-man</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\iron-man.xnb</Output>
+      <Time>2013-09-03T12:08:25.7204341+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{E62488FA-B84E-48ED-8334-8B7EEEFFD793}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>S:\oopa\asteroids\Ball Game\Ball GameContent\</RootDirectory>
+      <LoggerRootDirectory>S:\oopa\asteroids\Ball Game\Ball Game\</LoggerRootDirectory>
+      <IntermediateDirectory>S:\oopa\asteroids\Ball Game\Ball Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>S:\oopa\asteroids\Ball Game\Ball Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-18T14:10:08.9070674+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
